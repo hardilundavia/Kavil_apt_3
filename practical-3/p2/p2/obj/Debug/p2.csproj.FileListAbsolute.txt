@@ -1,0 +1,6 @@
+D:\MA032\practical-3\p2\p2\bin\Debug\p2.exe.config
+D:\MA032\practical-3\p2\p2\bin\Debug\p2.exe
+D:\MA032\practical-3\p2\p2\bin\Debug\p2.pdb
+D:\MA032\practical-3\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+D:\MA032\practical-3\p2\p2\obj\Debug\p2.exe
+D:\MA032\practical-3\p2\p2\obj\Debug\p2.pdb

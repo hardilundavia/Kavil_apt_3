@@ -1,0 +1,7 @@
+D:\MA032\practical-3\p3_stack\p3_stack\bin\Debug\p3_stack.exe.config
+D:\MA032\practical-3\p3_stack\p3_stack\bin\Debug\p3_stack.exe
+D:\MA032\practical-3\p3_stack\p3_stack\bin\Debug\p3_stack.pdb
+D:\MA032\practical-3\p3_stack\p3_stack\obj\Debug\p3_stack.csprojAssemblyReference.cache
+D:\MA032\practical-3\p3_stack\p3_stack\obj\Debug\p3_stack.csproj.CoreCompileInputs.cache
+D:\MA032\practical-3\p3_stack\p3_stack\obj\Debug\p3_stack.exe
+D:\MA032\practical-3\p3_stack\p3_stack\obj\Debug\p3_stack.pdb
