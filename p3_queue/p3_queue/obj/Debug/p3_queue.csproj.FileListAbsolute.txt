@@ -1,0 +1,7 @@
+D:\MA032\practical-3\p3_queue\p3_queue\bin\Debug\p3_queue.exe.config
+D:\MA032\practical-3\p3_queue\p3_queue\bin\Debug\p3_queue.exe
+D:\MA032\practical-3\p3_queue\p3_queue\bin\Debug\p3_queue.pdb
+D:\MA032\practical-3\p3_queue\p3_queue\obj\Debug\p3_queue.csprojAssemblyReference.cache
+D:\MA032\practical-3\p3_queue\p3_queue\obj\Debug\p3_queue.csproj.CoreCompileInputs.cache
+D:\MA032\practical-3\p3_queue\p3_queue\obj\Debug\p3_queue.exe
+D:\MA032\practical-3\p3_queue\p3_queue\obj\Debug\p3_queue.pdb
